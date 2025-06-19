@@ -45,8 +45,9 @@ const username = "example_username";
 ```
 
 -With your actual Instagram username, like:
--const username = "your_username";
-
+```
+const username = "your_username";
+```
 ---
 ### 🚀 Step 5: Run the Script
 -Press Enter to run the script
