@@ -51,6 +51,7 @@ const username = "example_username";
 ### 🚀 Step 5: Run the Script
 -Press Enter to run the script
 -Wait while it fetches and compares your followers and following lists
+---
 ### 🧾 Step 6: Read Your Results
 ```js
 
